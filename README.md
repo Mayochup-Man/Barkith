@@ -6,6 +6,6 @@ This mod will include
 * The Barkith
 * Pincushion Yo-Yo
 * The Quimbus Cannon
-* And more!
+* Real Storyline (we promise I think)
 ## Why we are making it
 No clue
